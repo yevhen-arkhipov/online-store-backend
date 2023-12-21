@@ -1,2 +1,3 @@
-# online-store-backend
-Online Store (PERN Stack)
+# online-store
+
+Database diagram: https://miro.com/app/board/uXjVNAAfCAw=/
