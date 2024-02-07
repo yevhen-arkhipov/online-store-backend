@@ -9,7 +9,7 @@ class ApiError extends Error {
     return new ApiError(404, message);
   }
 
-  static internal(message) {
+  static internalServerError(message) {
     return new ApiError(500, message);
   }
 
